@@ -1,4 +1,5 @@
-user_name = input("Hi, welcome to a boof version of hangman, please enter your name: ")
+user_name = input("Hi, welcome to a fun version of hangman, please enter your name: ")
+print("Nice to meet you", user_name)
 ready_to_play = input("Are you ready to play?: ")
 
 if ready_to_play == "no":
